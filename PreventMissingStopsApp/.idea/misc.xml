@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/workspace/PreventMissingStops/PreventMissingApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/workspace/PreventMissingStops/PreventMissingStopsApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/workspace/PreventMissingStops/PreventMissingStopsApp/app/src/main/res/layout/activity_map.xml" value="0.16666666666666666" />
       </map>
     </option>
   </component>
