@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75d58ac8-bc18-4918-b5d1-a0eabc42883a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../App/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreventMissingApp/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PreventMissingApp/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreventMissingApp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PreventMissingApp/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreventMissingApp/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../PreventMissingApp/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreventMissingApp/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PreventMissingApp/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreventMissingApp/app/src/main/java/jp/ac/ritsumei/ise/phy/exp2/is0576pr/preventmissingapp/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PreventMissingApp/app/src/main/java/jp/ac/ritsumei/ise/phy/exp2/is0576pr/preventmissingapp/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreventMissingApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PreventMissingApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreventMissingApp/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../PreventMissingApp/build.gradle" afterDir="false" />
+    <list default="true" id="3f24f1bf-1149-475f-b550-7fc2e9a90efb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/PreventMissingStopsApp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PreventMissingStopsApp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PreventMissingStopsApp/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/PreventMissingStopsApp/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PreventMissingStopsApp/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PreventMissingStopsApp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PreventMissingStopsApp/app/src/main/java/jp/ac/ritsumei/ise/phy/exp2/is0576pr/preventmissingstopsapp/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/PreventMissingStopsApp/app/src/main/java/jp/ac/ritsumei/ise/phy/exp2/is0576pr/preventmissingstopsapp/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PreventMissingStopsApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PreventMissingStopsApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PreventMissingStopsApp/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PreventMissingStopsApp/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,10 +29,9 @@
     </projectState>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2DQckBGqTa7AFnD7zR5QRUelvB9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2DVyNfy9k7ISgEwHJBDT68eNzO2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,7 +42,7 @@
   </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="TestMapApplication.app" />
+      <module name="PreventMissingStopsApp.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -102,23 +103,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="75d58ac8-bc18-4918-b5d1-a0eabc42883a" name="Default Changelist" comment="" />
-      <created>1660634889803</created>
+      <changelist id="3f24f1bf-1149-475f-b550-7fc2e9a90efb" name="Default Changelist" comment="" />
+      <created>1660798507942</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1660634889803</updated>
+      <updated>1660798507942</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
